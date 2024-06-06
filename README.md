@@ -1,6 +1,5 @@
 ﻿# Kafka_Twitter_Data
 
-Summary of the Code
 This Python code retrieves tweets containing a specific hashtag from Twitter and sends them to a Kafka topic. Here's a breakdown of the functionalities:
 
 1. Imports: Libraries required for Twitter streaming (tweepy.streaming), authentication (tweepy), Kafka interaction (kafka), and time management (time) are imported.
